@@ -40,6 +40,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ],
-    "homepage": "https://SEU_USUARIO.github.io/SEU_REPOSITORIO"
+    "homepage":[
+      "https://SEU_USUARIO.github.io/SEU_REPOSITORIO"
+    ]
   }
 }
