@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/sitevendas1/static/css/main.f80dd294.css",
-    "main.js": "/sitevendas1/static/js/main.451b1550.js",
+    "main.js": "/sitevendas1/static/js/main.81812425.js",
     "static/js/453.adc34edb.chunk.js": "/sitevendas1/static/js/453.adc34edb.chunk.js",
     "static/media/Camisa1.png": "/sitevendas1/static/media/Camisa1.014e2cc70911ac916127.png",
     "static/media/calça.jpg": "/sitevendas1/static/media/calça.b35ea05e4a452546153a.jpg",
     "static/media/foto1.webp": "/sitevendas1/static/media/foto1.950c8721346bdefdef32.webp",
     "index.html": "/sitevendas1/index.html",
     "main.f80dd294.css.map": "/sitevendas1/static/css/main.f80dd294.css.map",
-    "main.451b1550.js.map": "/sitevendas1/static/js/main.451b1550.js.map",
+    "main.81812425.js.map": "/sitevendas1/static/js/main.81812425.js.map",
     "453.adc34edb.chunk.js.map": "/sitevendas1/static/js/453.adc34edb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f80dd294.css",
-    "static/js/main.451b1550.js"
+    "static/js/main.81812425.js"
   ]
 }
