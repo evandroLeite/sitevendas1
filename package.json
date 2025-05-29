@@ -2,6 +2,7 @@
   "name": "site",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://evandroleite.github.io/sitevendas1",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
@@ -39,9 +40,6 @@
       "last 1 chrome version",
       "last 1 firefox version",
       "last 1 safari version"
-    ],
-    "homepage":[
-      "https://SEU_USUARIO.github.io/SEU_REPOSITORIO"
     ]
   }
 }
